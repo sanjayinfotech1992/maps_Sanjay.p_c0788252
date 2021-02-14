@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">maps_sanjayPrajapati_C0788252</string>
+    <string name="title_activity_maps">Sanjay_C0788252</string>
+    <string name="loc_permission_title">Location Permission required</string>
+    <string name="loc_permission_body">This app require Location permission to show distance between the city and your location. Please grant the permission</string>
+    <string name="ok">Ok</string>
+    <string name="loc_permssion_denied">Permission denied. Distance snippet can not be shown</string>
+</resources>
